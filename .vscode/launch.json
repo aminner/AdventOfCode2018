@@ -27,6 +27,18 @@
             "request": "launch",
             "name": "Launch Day2 Part2",
             "program": "${workspaceFolder}/Day2\\part2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Day3 Part1",
+            "program": "${workspaceFolder}/Day3\\part1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Day3 Part2",
+            "program": "${workspaceFolder}/Day3\\part2.js"
         }
     ]
 }
